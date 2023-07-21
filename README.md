@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-My name is [Manuel Corpas Kannen](www.manuelck.com) I'm a graphic designer and video editor with a degree in marketing and advertising from Spain.
+My name is [Manuel Corpas Kannen](https://manuelck.com/) I'm a graphic designer and video editor with a degree in marketing and advertising from Spain.
 
 I'm now studying web development in my free time in order to become a full stack developer.
 
